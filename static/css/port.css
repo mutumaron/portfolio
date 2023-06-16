@@ -1,0 +1,100 @@
+ul{
+    list-style-type: none;
+    
+    
+    overflow: hidden;
+    
+}
+nav {
+    float: right;
+    padding-top: 20px;
+}
+li {
+    display: inline;
+    
+}
+a {
+    color: wheat;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+
+    
+
+li a:hover {
+    background-color: orangered;
+}
+
+
+
+
+h1 {
+    padding: 20px;
+    text-align: center; 
+    padding-top: 100px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: wheat;
+
+}
+p {
+    padding: 20px;
+    text-align: center;
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
+.background {
+    background-image: url("../img/bubble.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.avatar{
+    text-align: center;
+    padding-top: 100px;
+}
+.coon{
+    background-color: gray;
+    padding: 1px;
+    border-radius: 30px;
+    
+    
+}
+h2{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.social{
+    text-align: center;
+    background-color: black;
+
+    justify-content: center;
+    text-align: center;
+
+
+}
+.portfolio{
+      background-image: url("../img/moon1.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;
+
+}.kim{
+    background-color: black;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    text-align: center;
+    color: gray;
+ }
+ body{
+     background-color: black;
+ }
+
